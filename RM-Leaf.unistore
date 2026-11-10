@@ -6,7 +6,7 @@
   "file": "RM-Leaf.unistore",
   "url": "https://raw.githubusercontent.com/rmhomelab/RM-Leaf/main/RM-Leaf.unistore",
   "version": 3,
-  "revision": 29902124,
+  "revision": 29904925,
   "sheet": "RM-Leaf.t3x",
   "sheetURL": "https://raw.githubusercontent.com/rmhomelab/RM-Leaf/main/RM-Leaf.t3x"
  },
@@ -15,7 +15,7 @@
    "info": {
     "title": "RM Leaf",
     "author": "RM",
-    "version": "1.0.0-beta.2",
+    "version": "1.0.0-beta.3",
     "category": [
      "utility"
     ],
@@ -24,7 +24,7 @@
     ],
     "description": "Mod menu tactil para ACNL y Welcome amiibo. Haz copia de tu partida antes. Despues: Rosalina > Plugin Loader > Enabled. / Touch mod menu for ACNL. Back up your save. Then: Rosalina > Plugin Loader > Enabled.",
     "license": "",
-    "last_updated": "2026-11-08",
+    "last_updated": "2026-11-10",
     "icon_index": 0,
     "sheet_index": 0
    },
@@ -81,361 +81,361 @@
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/PanelACNL.3gx",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/PanelACNL.3gx",
      "output": "sdmc:/luma/plugins/0004000000198F00/PanelACNL.3gx",
      "message": "Plugin (00198F00)..."
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/PanelACNL.3gx",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/PanelACNL.3gx",
      "output": "sdmc:/luma/plugins/0004000000198E00/PanelACNL.3gx",
      "message": "Plugin (00198E00)..."
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/PanelACNL.3gx",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/PanelACNL.3gx",
      "output": "sdmc:/luma/plugins/0004000000198D00/PanelACNL.3gx",
      "message": "Plugin (00198D00)..."
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/PanelACNL.3gx",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/PanelACNL.3gx",
      "output": "sdmc:/luma/plugins/0004000000086400/PanelACNL.3gx",
      "message": "Plugin (00086400)..."
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/PanelACNL.3gx",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/PanelACNL.3gx",
      "output": "sdmc:/luma/plugins/0004000000086300/PanelACNL.3gx",
      "message": "Plugin (00086300)..."
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/PanelACNL.3gx",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/PanelACNL.3gx",
      "output": "sdmc:/luma/plugins/0004000000086200/PanelACNL.3gx",
      "message": "Plugin (00086200)..."
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/PanelACNL.3gx",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/PanelACNL.3gx",
      "output": "sdmc:/luma/plugins/0004000000086500/PanelACNL.3gx",
      "message": "Plugin (00086500)..."
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/PanelACNL.3gx",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/PanelACNL.3gx",
      "output": "sdmc:/luma/plugins/0004000000199000/PanelACNL.3gx",
      "message": "Plugin (00199000)..."
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/PanelACNL.3gx",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/PanelACNL.3gx",
      "output": "sdmc:/luma/plugins/00040000004C5700/PanelACNL.3gx",
      "message": "Plugin (004C5700)..."
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/acres.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/acres.bin",
      "output": "sdmc:/PanelACNL/acres.bin",
      "message": "Datos 1/51: acres.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/acres112.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/acres112.bin",
      "output": "sdmc:/PanelACNL/acres112.bin",
      "message": "Datos 2/51: acres112.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/acres32.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/acres32.bin",
      "output": "sdmc:/PanelACNL/acres32.bin",
      "message": "Datos 3/51: acres32.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/acres48.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/acres48.bin",
      "output": "sdmc:/PanelACNL/acres48.bin",
      "message": "Datos 4/51: acres48.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/al.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/al.bin",
      "output": "sdmc:/PanelACNL/al.bin",
      "message": "Datos 5/51: al.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/casa.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/casa.bin",
      "output": "sdmc:/PanelACNL/casa.bin",
      "message": "Datos 6/51: casa.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/casa2.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/casa2.bin",
      "output": "sdmc:/PanelACNL/casa2.bin",
      "message": "Datos 7/51: casa2.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/casafoto.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/casafoto.bin",
      "output": "sdmc:/PanelACNL/casafoto.bin",
      "message": "Datos 8/51: casafoto.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/cuerpo.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/cuerpo.bin",
      "output": "sdmc:/PanelACNL/cuerpo.bin",
      "message": "Datos 9/51: cuerpo.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/edificios.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/edificios.bin",
      "output": "sdmc:/PanelACNL/edificios.bin",
      "message": "Datos 10/51: edificios.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/gestos.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/gestos.bin",
      "output": "sdmc:/PanelACNL/gestos.bin",
      "message": "Datos 11/51: gestos.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/icons.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/icons.bin",
      "output": "sdmc:/PanelACNL/icons.bin",
      "message": "Datos 12/51: icons.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/id10a14.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/id10a14.bin",
      "output": "sdmc:/PanelACNL/id10a14.bin",
      "message": "Datos 13/51: id10a14.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/itemcat.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/itemcat.bin",
      "output": "sdmc:/PanelACNL/itemcat.bin",
      "message": "Datos 14/51: itemcat.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/itemicon.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/itemicon.bin",
      "output": "sdmc:/PanelACNL/itemicon.bin",
      "message": "Datos 15/51: itemicon.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/itemmeta.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/itemmeta.bin",
      "output": "sdmc:/PanelACNL/itemmeta.bin",
      "message": "Datos 16/51: itemmeta.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/itemprice.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/itemprice.bin",
      "output": "sdmc:/PanelACNL/itemprice.bin",
      "message": "Datos 17/51: itemprice.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/items-de.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/items-de.txt",
      "output": "sdmc:/PanelACNL/items-de.txt",
      "message": "Datos 18/51: items-de.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/items-en.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/items-en.txt",
      "output": "sdmc:/PanelACNL/items-en.txt",
      "message": "Datos 19/51: items-en.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/items-es.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/items-es.txt",
      "output": "sdmc:/PanelACNL/items-es.txt",
      "message": "Datos 20/51: items-es.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/items-fr.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/items-fr.txt",
      "output": "sdmc:/PanelACNL/items-fr.txt",
      "message": "Datos 21/51: items-fr.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/items-it.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/items-it.txt",
      "output": "sdmc:/PanelACNL/items-it.txt",
      "message": "Datos 22/51: items-it.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/lang_de.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/lang_de.txt",
      "output": "sdmc:/PanelACNL/lang_de.txt",
      "message": "Datos 23/51: lang_de.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/lang_en.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/lang_en.txt",
      "output": "sdmc:/PanelACNL/lang_en.txt",
      "message": "Datos 24/51: lang_en.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/lang_fr.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/lang_fr.txt",
      "output": "sdmc:/PanelACNL/lang_fr.txt",
      "message": "Datos 25/51: lang_fr.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/lang_it.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/lang_it.txt",
      "output": "sdmc:/PanelACNL/lang_it.txt",
      "message": "Datos 26/51: lang_it.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/medallas.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/medallas.bin",
      "output": "sdmc:/PanelACNL/medallas.bin",
      "message": "Datos 27/51: medallas.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/metatex-de.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/metatex-de.txt",
      "output": "sdmc:/PanelACNL/metatex-de.txt",
      "message": "Datos 28/51: metatex-de.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/metatex-en.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/metatex-en.txt",
      "output": "sdmc:/PanelACNL/metatex-en.txt",
      "message": "Datos 29/51: metatex-en.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/metatex-es.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/metatex-es.txt",
      "output": "sdmc:/PanelACNL/metatex-es.txt",
      "message": "Datos 30/51: metatex-es.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/metatex-fr.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/metatex-fr.txt",
      "output": "sdmc:/PanelACNL/metatex-fr.txt",
      "message": "Datos 31/51: metatex-fr.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/metatex-it.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/metatex-it.txt",
      "output": "sdmc:/PanelACNL/metatex-it.txt",
      "message": "Datos 32/51: metatex-it.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/metatex.txt",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/metatex.txt",
      "output": "sdmc:/PanelACNL/metatex.txt",
      "message": "Datos 33/51: metatex.txt"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/muebles.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/muebles.bin",
      "output": "sdmc:/PanelACNL/muebles.bin",
      "message": "Datos 34/51: muebles.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/muebles.idx",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/muebles.idx",
      "output": "sdmc:/PanelACNL/muebles.idx",
      "message": "Datos 35/51: muebles.idx"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/papeles.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/papeles.bin",
      "output": "sdmc:/PanelACNL/papeles.bin",
      "message": "Datos 36/51: papeles.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/peinados.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/peinados.bin",
      "output": "sdmc:/PanelACNL/peinados.bin",
      "message": "Datos 37/51: peinados.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/personaje.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/personaje.bin",
      "output": "sdmc:/PanelACNL/personaje.bin",
      "message": "Datos 38/51: personaje.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/personaje_b.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/personaje_b.bin",
      "output": "sdmc:/PanelACNL/personaje_b.bin",
      "message": "Datos 39/51: personaje_b.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/pictos.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/pictos.bin",
      "output": "sdmc:/PanelACNL/pictos.bin",
      "message": "Datos 40/51: pictos.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/piezas.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/piezas.bin",
      "output": "sdmc:/PanelACNL/piezas.bin",
      "message": "Datos 41/51: piezas.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/pines.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/pines.bin",
      "output": "sdmc:/PanelACNL/pines.bin",
      "message": "Datos 42/51: pines.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/pinescolor.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/pinescolor.bin",
      "output": "sdmc:/PanelACNL/pinescolor.bin",
      "message": "Datos 43/51: pinescolor.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/pueblo.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/pueblo.bin",
      "output": "sdmc:/PanelACNL/pueblo.bin",
      "message": "Datos 44/51: pueblo.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/secciones.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/secciones.bin",
      "output": "sdmc:/PanelACNL/secciones.bin",
      "message": "Datos 45/51: secciones.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/simbolos.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/simbolos.bin",
      "output": "sdmc:/PanelACNL/simbolos.bin",
      "message": "Datos 46/51: simbolos.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/suelo3d.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/suelo3d.bin",
      "output": "sdmc:/PanelACNL/suelo3d.bin",
      "message": "Datos 47/51: suelo3d.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/vecdef.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/vecdef.bin",
      "output": "sdmc:/PanelACNL/vecdef.bin",
      "message": "Datos 48/51: vecdef.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/vecinos.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/vecinos.bin",
      "output": "sdmc:/PanelACNL/vecinos.bin",
      "message": "Datos 49/51: vecinos.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/vecinos3d.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/vecinos3d.bin",
      "output": "sdmc:/PanelACNL/vecinos3d.bin",
      "message": "Datos 50/51: vecinos3d.bin"
     },
     {
      "type": "downloadFile",
-     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.2/versiones.bin",
+     "file": "https://github.com/rmhomelab/RM-Leaf/releases/download/v1.0.0-beta.3/versiones.bin",
      "output": "sdmc:/PanelACNL/versiones.bin",
      "message": "Datos 51/51: versiones.bin"
     }

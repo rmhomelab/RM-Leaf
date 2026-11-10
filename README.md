@@ -3,7 +3,7 @@
 **El mod menu táctil para Animal Crossing: New Leaf y Welcome amiibo (3DS).**
 *The touch mod menu for Animal Crossing: New Leaf and Welcome amiibo (3DS).*
 
-Versión / version **1.0.0-beta.2** · Web: https://rmhomelab.github.io/RM-Leaf/ · Discord: https://discord.gg/xACF2s9JgM
+Versión / version **1.0.0-beta.3** · Web: https://rmhomelab.github.io/RM-Leaf/ · Discord: https://discord.gg/xACF2s9JgM
 
 ---
 
